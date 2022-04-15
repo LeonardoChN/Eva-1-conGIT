@@ -2,3 +2,8 @@ git init
 git statu
 git add
 git commit -m
+
+crear repositorio en github y copiar el remote
+y pegar en el bash OJO con el main o master
+
+despues se hace el push 
